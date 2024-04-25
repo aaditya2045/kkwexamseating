@@ -153,6 +153,17 @@ const students = [
         wing: 'A',
         department: 'Electrical Department'
     },
+    
+    { 
+        rollNumber: 'S223', 
+        branch: 'Electrical Department', 
+        semester: '4th', 
+        subject: 'Electical Network Analysis', 
+        examTime: '10:00 AM', 
+        roomNumber: 'A101',
+        wing: 'A',
+        department: 'Electrical Department'
+    },
 
 
 
