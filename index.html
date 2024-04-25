@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Seating Arrangement</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="logo.png" alt="Exam Seating Arrangement Logo">
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <h1>Exam Seating Arrangement</h1>
+        <form id="examForm">
+            <label for="rollNumber">Enter Your Roll Number:</label>
+            <input type="text" id="rollNumber" name="rollNumber" required>
+            <button type="submit">Submit</button>
+        </form>
+        <div id="result" class="hidden">
+            <h3>Your exam details:</h3>
+            <p id="branch"></p>
+            <p id="semester"></p>
+            <p id="rollNumberDisplay"></p>
+            <p id="subject"></p>
+            <h3>Your Exam location</h3>
+            <p id="examTime"></p>
+            <p id="roomNumber"></p>
+            <p id="wing"></p>
+            <p id="department"></p>
+        </div>
+        <div id="error" class="hidden">
+            <p id="errorMessage"></p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Exam Seating Arrangement. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
