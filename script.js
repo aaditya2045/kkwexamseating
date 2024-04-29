@@ -1996,7 +1996,7 @@ examForm.addEventListener('submit', function(event) {
         resultDiv.classList.remove('hidden');
         branchDisplay.textContent = `Branch: ${student.branch}`;
         semesterDisplay.textContent = `Semester: ${student.semester}`;
-        rollNumberDisplay.textContent = `Roll Number: ${student.rollNumber}`;
+        rollNumberDisplay.textContent = `Seat Number: ${student.rollNumber}`;
         subjectDisplay.textContent = `Subject: ${student.subject}`;
         examTimeDisplay.textContent = `Exam Time: ${student.examTime}`;
         datedisplay.textContent = `Date of Exam: ${student.date}`;
