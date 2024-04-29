@@ -19,7 +19,7 @@ const departmentDisplay = document.getElementById('department');
 const students = [
     { 
         rollNumber: 'S221306001', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -32,7 +32,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306002', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -45,7 +45,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306003', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -58,7 +58,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306004', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -71,7 +71,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306005', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -84,7 +84,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306006', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -97,7 +97,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306007', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -110,7 +110,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306008', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -123,7 +123,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306009', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -136,7 +136,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306010', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -149,7 +149,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306011', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -162,7 +162,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306012', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -175,7 +175,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306013', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -188,7 +188,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306014', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -201,7 +201,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306015', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -214,7 +214,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306016', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -227,7 +227,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306017', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -240,7 +240,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306018', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -253,7 +253,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306019', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -266,7 +266,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306020', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -279,7 +279,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306021', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -292,7 +292,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306022', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -305,7 +305,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306023', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -318,7 +318,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306024', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -331,7 +331,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306025', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -344,7 +344,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306026', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -357,7 +357,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306027', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -370,7 +370,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306028', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -383,7 +383,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306029', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -401,7 +401,7 @@ const students = [
 
     { 
         rollNumber: 'S221306030', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -414,7 +414,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306031', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -427,7 +427,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306032', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Electical Network Analysis', 
         examTime: '10:00 AM', 
@@ -440,7 +440,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306033', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -453,7 +453,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306034', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -466,7 +466,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306035', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -479,7 +479,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306036', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -492,7 +492,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306037', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -505,7 +505,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306038', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -518,7 +518,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306039', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -531,7 +531,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306040', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -544,7 +544,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306041', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -557,7 +557,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306042', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -570,7 +570,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306043', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -583,7 +583,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306044', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -596,7 +596,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306045', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -609,7 +609,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306046', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -622,7 +622,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306047', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -635,7 +635,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306048', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -648,7 +648,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306049', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -661,7 +661,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306050', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -674,7 +674,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306051', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -687,7 +687,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306052', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -700,7 +700,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306053', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -713,7 +713,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306054', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -726,7 +726,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306055', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -739,7 +739,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306056', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -752,7 +752,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306057', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -765,7 +765,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306058', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -778,7 +778,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306059', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -791,7 +791,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306060', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -804,7 +804,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306061', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -817,7 +817,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306062', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -830,7 +830,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306063', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -843,7 +843,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306064', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -856,7 +856,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306065', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Microcontroller and Embedded Systems', 
         examTime: '10:00 AM', 
@@ -872,7 +872,7 @@ const students = [
 
     { 
         rollNumber: 'S221306066', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -885,7 +885,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306067', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -898,7 +898,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306068', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -911,7 +911,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306069', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -924,7 +924,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306070', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -937,7 +937,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306071', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -950,7 +950,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306072', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -963,7 +963,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306073', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -976,7 +976,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306074', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -989,7 +989,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306075', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1002,7 +1002,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306076', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1015,7 +1015,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306077', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1028,7 +1028,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306078', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1041,7 +1041,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306079', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1054,7 +1054,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306080', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1067,7 +1067,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306081', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1080,7 +1080,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306082', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1093,7 +1093,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306083', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1106,7 +1106,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306084', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1119,7 +1119,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306085', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1132,7 +1132,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306086', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1145,7 +1145,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306087', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1158,7 +1158,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306088', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1171,7 +1171,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306089', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1184,7 +1184,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306090', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1197,7 +1197,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306091', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1210,7 +1210,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306092', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1223,7 +1223,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306093', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1236,7 +1236,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306094', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1249,7 +1249,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306095', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1262,7 +1262,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306096', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1275,7 +1275,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306097', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1288,7 +1288,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306098', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1301,7 +1301,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306099', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1314,7 +1314,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306100', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power Electronics', 
         examTime: '10:00 AM', 
@@ -1331,7 +1331,7 @@ const students = [
 
     { 
         rollNumber: 'S221306101', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1344,7 +1344,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306102', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1357,7 +1357,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306103', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1370,7 +1370,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306104', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1383,7 +1383,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306105', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1396,7 +1396,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306106', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1409,7 +1409,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306107', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1422,7 +1422,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306108', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1435,7 +1435,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306109', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1448,7 +1448,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306110', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1461,7 +1461,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306111', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1474,7 +1474,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306112', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1487,7 +1487,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306113', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1500,7 +1500,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306114', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1513,7 +1513,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306115', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1526,7 +1526,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306116', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1539,7 +1539,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306117', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1552,7 +1552,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306118', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1565,7 +1565,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306119', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1578,7 +1578,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306120', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1591,7 +1591,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306121', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1604,7 +1604,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306122', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1617,7 +1617,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306123', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1630,7 +1630,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306124', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1643,7 +1643,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306125', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1656,7 +1656,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306126', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1669,7 +1669,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306127', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1682,7 +1682,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306128', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1695,7 +1695,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306129', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1708,7 +1708,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306130', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1721,7 +1721,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306131', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1734,7 +1734,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306132', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1747,7 +1747,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306133', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1760,7 +1760,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306134', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1773,7 +1773,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306135', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1786,7 +1786,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306136', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Power System Engineering', 
         examTime: '10:00 AM', 
@@ -1801,7 +1801,7 @@ const students = [
     // Faraday hall
     { 
         rollNumber: 'S221306137', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
@@ -1814,7 +1814,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306138', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
@@ -1827,7 +1827,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306139', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
@@ -1840,7 +1840,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306140', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
@@ -1853,7 +1853,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306141', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
@@ -1866,7 +1866,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306142', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
@@ -1879,7 +1879,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306143', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
@@ -1892,7 +1892,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306144', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
@@ -1905,7 +1905,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306145', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
@@ -1918,7 +1918,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306146', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
@@ -1931,7 +1931,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306147', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
@@ -1944,7 +1944,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306148', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
@@ -1957,7 +1957,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306149', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
@@ -1970,7 +1970,7 @@ const students = [
     },
     { 
         rollNumber: 'S221306150', 
-        branch: 'Eletrical Department', 
+        branch: 'Electrical Department', 
         semester: '4th', 
         subject: 'Design Thinking for Academic Project', 
         examTime: '10:00 AM', 
